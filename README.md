@@ -37,3 +37,4 @@ https://file.notion.so/f/f/163f1722-85e9-4a3c-adba-457a91094f00/b3ebce2a-49b6-46
 4. **BONUS** Instead of relying on ***console.log***, let’s create a UI for these random pokemon. Build an HTML page that lets you click on a button to generate data from three randomly chosen pokemon. Include the name of the pokemon, an image of the pokemon, and the description of its species which you found in 3.
 
 Here’s how this could look:
+https://file.notion.so/f/f/163f1722-85e9-4a3c-adba-457a91094f00/5dbfb966-c66c-4ac8-95a6-9b04243ad945/pokemon.gif?id=000e837d-8da9-4875-b8b8-c19171d271fa&table=block&spaceId=163f1722-85e9-4a3c-adba-457a91094f00&expirationTimestamp=1700776800000&signature=5xRlfpiU_l_Qn_uHWF1PAH_8etPwoY30WOUhvZ6n874
