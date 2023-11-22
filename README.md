@@ -24,6 +24,7 @@ Once you’ve solved this using promises continue to the next subunit and after 
 3. Build an HTML page that lets you draw cards from a deck. When the page loads, go to the Deck of Cards API to create a new deck, and show a button on the page that will let you draw a card. Every time you click the button, display a new card, until there are no cards left in the deck.
 
 Here’s how this might look (with styling added):
+https://file.notion.so/f/f/163f1722-85e9-4a3c-adba-457a91094f00/b3ebce2a-49b6-466a-9a90-5c353e6dfd33/cards.gif?id=f88752bd-62ae-477a-b122-d660bb0fd0ff&table=block&spaceId=163f1722-85e9-4a3c-adba-457a91094f00&expirationTimestamp=1700776800000&signature=MECZkxK3IruNjsWffgQrQ301tO4_UsbbvsIDeXpFN80
 
 ## **Further Study**
 
